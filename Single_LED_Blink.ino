@@ -1,3 +1,5 @@
+// Kadyn Geddes - ECE 1895 GitHub Assignment
+
 void setup() {
   //set LED pin
   pinMode(8, OUTPUT);
