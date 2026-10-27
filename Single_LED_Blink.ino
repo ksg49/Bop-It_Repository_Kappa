@@ -1,4 +1,6 @@
 // Kadyn Geddes - ECE 1895 GitHub Assignment
+//Rowen Kuzmiski Comment for github
+//adding my edit for the intro to git assignment - Matthew Zoschg
 
 void setup() {
   //set LED pin
