@@ -1,3 +1,4 @@
+//adding my edit for the intro to git assignment - Matthew Zoschg
 void setup() {
   //set LED pin
   pinMode(8, OUTPUT);
